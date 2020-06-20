@@ -1,0 +1,8 @@
+{
+  "name": "unified-type-stubs",
+  "version": "1.0.0",
+  "description": "Stub type definitions for unified, so you dont have to add it as a dependency",
+  "author": "Eric Rabil <ericjrabil@gmail.com>",
+  "typings": "index.d.ts",
+  "license": "ISC"
+}
